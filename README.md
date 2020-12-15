@@ -1,6 +1,7 @@
-# pong-game.github.io
+# pong game
 
-This game is design by 
+This game is code with 
 
 # . python3
 # . Turtle
+
